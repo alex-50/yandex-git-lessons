@@ -2,12 +2,7 @@
 
 
 def input_numbers():
-	numbers = []
-
-	while s := input():
-		numbers.append(int(s))
-
-	return numbers
+	return [int(number) for number in input().split()]
 
 
 def output_numbers(numbers):
