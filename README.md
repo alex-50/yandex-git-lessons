@@ -1,6 +1,6 @@
-#Program for sorting array of numbers
+# Program for sorting array of numbers
 
-##Using:
+## Using:
 ```
 python3 script.py
 2
